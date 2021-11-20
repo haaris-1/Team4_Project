@@ -1,0 +1,51 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin:0px;
+    padding:0px;
+}
+
+.heading{
+    margin-top: 0px;
+    padding: 20px;
+    border: solid;
+    border-width: 0px 0px 5px 0px;
+    border-style: ridge;
+}
+table{
+    margin-left: 20px;
+}
+img{
+    height: 100px;
+}
+.heading h1{
+    padding: 0px 300px;
+}
+
+nav{
+    height: 2.5pc;
+    width: 100%;
+    background-color: rgb(10, 55, 201);
+}
+
+.comp{
+    text-decoration: none;
+    color: white;
+    float: left;
+    position: relative;
+    overflow: hidden;
+    padding: 10px 50px 10px;
+}
+a:hover{
+    background-color: rgb(89, 119, 216);
+}
+.sideheading{
+    font-size: 10px;
+    padding : 5px 0px 5px 50px;
+    background-color: rgb(89, 119, 216);
+    text-decoration: underline white;
+    text-align: left;
+}
+
+.sideheading h1{
+    color: white;
+}
