@@ -1,5 +1,5 @@
 *{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Roboto,Verdana, Geneva, Tahoma, sans-serif;
     margin:0px;
     padding:0px;
 }
@@ -36,16 +36,59 @@ nav{
     padding: 10px 50px 10px;
 }
 a:hover{
+    font-size: 20px;
     background-color: rgb(89, 119, 216);
 }
 .sideheading{
-    font-size: 10px;
-    padding : 5px 0px 5px 50px;
-    background-color: rgb(89, 119, 216);
-    text-decoration: underline white;
+    display: block;
+    font-size: 15px;
+    padding : 5px 5px 5px 5px;
+    text-decoration: black;
     text-align: left;
 }
+.curr{
+    font-size: 20px;
+}
 
-.sideheading h1{
-    color: white;
+.banner{
+    direction: rtl;
+    font-size: 20px;
+}
+.welcome{
+    line-height: 60px;
+    margin-top: 40px;
+    text-align: center;
+    font-size: 50px;
+}
+
+.virL{
+    font-weight: 900;
+    color: rgb(108, 194, 97);
+}
+.virL2{
+    color: rgb(97, 142, 194);
+}
+
+.mme{
+    font-weight: 600;
+    color: rgb(230, 106, 18);
+}
+
+.line{
+    margin-left: 200px;
+    margin-right: 200px;
+    line-height: 20px;
+}
+.mid{
+    margin-top: 10px;
+    text-align: center;
+    font-size: 25px;
+}
+.pmml{
+    margin-top: 10px;
+    text-align: center;
+    font-size: 40px;
+}
+.pmmls{
+    color: rgb(97, 142, 194);
 }
