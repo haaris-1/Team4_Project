@@ -41,7 +41,7 @@ a:hover{
 }
 .sideheading{
     display: block;
-    font-size: 15px;
+    font-size: 10px;
     padding : 5px 5px 5px 5px;
     text-decoration: black;
     text-align: left;
@@ -91,4 +91,85 @@ a:hover{
 }
 .pmmls{
     color: rgb(97, 142, 194);
+}
+
+.pageHead{
+    width: 40%;
+    margin-top: 10px;
+    margin-left: 30px;
+    color: rgba(101, 104, 103, 0.63);
+    font-weight: 700;
+    font-size: 3em;
+}
+
+.uLine{
+    margin-top: 8px;
+    width: 100%;
+}
+
+.content{
+    margin-left: 45px;
+    margin-top: 30px;
+}
+
+.mainHead{
+    font-size: 25px;
+}
+
+.mainCon{
+    margin-top: 30px ;
+    margin-left: 100px;
+    font-size: 20px;
+}
+
+li{
+    margin-top: 10px;
+    padding:10px 10px 10px 10px;
+}
+
+.con1{
+    line-height: 30px;
+    margin-right:250px ;
+    margin-top: 20px;
+    margin-left: 30px;
+    padding-bottom: 20px;
+}
+
+.con2{
+    font-size: 30px;
+    margin-left: 100px;
+}
+
+.con3{
+    font-size: 20px;
+    margin-left: 100px;
+}
+
+.con3 li{
+}
+
+.link{
+    color: black;
+    text-decoration: none;
+    background-color: white;
+}
+
+.link:hover{
+    font-size: 32px;
+    background-color: white;
+}
+
+sup,sub{
+    font-size: 20px;
+}
+
+.astm1{
+    height: 600px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+.astm2{
+    height: 500px;
+    margin-left: 40px;
+    margin-bottom: 20px;
 }
